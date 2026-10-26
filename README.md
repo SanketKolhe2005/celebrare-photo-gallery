@@ -64,7 +64,7 @@ Install [Node.js](https://nodejs.org/) before running the application.
 1. Clone this repository:
 
    ```bash
-   git clone YOUR_GITHUB_REPOSITORY_URL
+   git clone [YOUR_GITHUB_REPOSITORY_URL](https://github.com/SanketKolhe2005/celebrare-photo-gallery.git)
    ```
 
 2. Navigate to the project folder:
